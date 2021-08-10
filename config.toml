@@ -19,7 +19,7 @@ weight = 2
 [[menu.nav]]
 name = "Portfolio"
 url = "portfolio"
-weight = 3
+weight = 4
 
 [[menu.nav]]
 name = "Blog"
